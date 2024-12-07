@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useEffect } from "react";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { DatePickerWithRange } from "@/components/ui/date-picker-with-range";
 import { DateRange } from "react-day-picker";
 import {
@@ -13,6 +13,7 @@ import {
   ResponsiveContainer,
 } from "recharts";
 import { loadWeatherData, WeatherDataSet } from "../utils/weatherData";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 
 interface RawWeatherData {
   date: string;
@@ -34,6 +35,7 @@ const ForecastErrorRate: React.FC = () => {
   const [filteredData, setFilteredData] = useState<any>({});
   const [errorData, setErrorData] = useState<any[]>([]);
   const [averageErrorRates, setAverageErrorRates] = useState<any>(null);
+  const [selectedChart, setSelectedChart] = useState<'kma' | 'openWeather' | 'accuWeather'>('kma'); // State for selected chart
 
   useEffect(() => {
     const fetchData = async () => {
@@ -113,31 +115,73 @@ const ForecastErrorRate: React.FC = () => {
       avgOpenWeatherPrecipError: calculateAverage("openWeatherPrecipError"),
       avgAccuWeatherPrecipError: calculateAverage("accuWeatherPrecipError"),
     });
-  }, [weatherDataSet, dateRange]);
+  }, [weatherDataSet, dateRange, selectedChart]);
 
-  const renderChart = () => (
-    <ResponsiveContainer width="100%" height={400}>
-      <LineChart data={errorData} margin={{ top: 20, right: 30, left: 0, bottom: 0 }}>
-        <CartesianGrid strokeDasharray="3 3" />
-        <XAxis dataKey="date" />
-        <YAxis />
-        <Tooltip formatter={(value) => (value ? `${value.toFixed(2)}` : "N/A")} />
-        <Legend />
-        <Line type="monotone" dataKey="kmaTempError" stroke="#8884d8" name="기상청 기온 오차" connectNulls />
-        <Line type="monotone" dataKey="openWeatherTempError" stroke="#82ca9d" name="OpenWeather 기온 오차" connectNulls />
-        <Line type="monotone" dataKey="accuWeatherTempError" stroke="#ffc658" name="AccuWeather 기온 오차" connectNulls />
-      </LineChart>
-    </ResponsiveContainer>
-  );
+  const renderChart = () => {
+    let chartDataKey: string;
+    let chartStroke: string;
+    let chartName: string;
+
+    switch (selectedChart) {
+      case 'kma':
+        chartDataKey = "kmaTempError";
+        chartStroke = "#8884d8";
+        chartName = "기상청 기온 오차";
+        break;
+      case 'openWeather':
+        chartDataKey = "openWeatherTempError";
+        chartStroke = "#82ca9d";
+        chartName = "OpenWeather 기온 오차";
+        break;
+      case 'accuWeather':
+        chartDataKey = "accuWeatherTempError";
+        chartStroke = "#ffc658";
+        chartName = "AccuWeather 기온 오차";
+        break;
+      default:
+        chartDataKey = "kmaTempError";
+        chartStroke = "#8884d8";
+        chartName = "기상청 기온 오차";
+    }
+
+    return (
+      <ResponsiveContainer width="100%" height={400}>
+        <LineChart data={errorData} margin={{ top: 20, right: 30, left: 0, bottom: 0 }}>
+          <CartesianGrid strokeDasharray="3 3" />
+          <XAxis dataKey="date" />
+          <YAxis />
+          <Tooltip formatter={(value) => (value ? `${value.toFixed(2)}` : "N/A")} />
+          <Legend />
+          <Line type="monotone" dataKey={chartDataKey} stroke={chartStroke} name={chartName} connectNulls />
+        </LineChart>
+      </ResponsiveContainer>
+    );
+  };
 
   if (loading) return <p>Loading...</p>;
   if (error) return <p>{error}</p>;
 
   return (
     <Card className="w-full max-w-4xl">
+      
       <CardContent>
+        <p className="mb-4">
+          
+        </p>
         <div className="mb-4">
           <DatePickerWithRange date={dateRange} setDate={setDateRange} />
+        </div>
+        <div className="mb-4">
+          <Select value={selectedChart} onValueChange={setSelectedChart}>
+            <SelectTrigger>
+              <SelectValue placeholder="제공자 선택" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="kma">기상청</SelectItem>
+              <SelectItem value="openWeather">OpenWeather</SelectItem>
+              <SelectItem value="accuWeather">AccuWeather</SelectItem>
+            </SelectContent>
+          </Select>
         </div>
         <div className="mb-4">
           <p>평균 기온 오차 (선택된 구간):</p>

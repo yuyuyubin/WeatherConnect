@@ -7,14 +7,15 @@ import { AccuWeatherEntry } from '../utils/accuWeather';
 import { Cloud, CloudDrizzle, CloudRain, CloudSnow, Sun } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
-import { format, addDays } from 'date-fns';
+import { format, addDays, isSameDay } from 'date-fns';
 import { DialogDescription } from "@/components/ui/dialog";
+import { DeepLearningForecastEntry } from './DeepLearningForecast'; // Import DeepLearningForecastEntry
 
 interface WeatherComparisonProps {
   kmaData: ProcessedWeatherData[];
   openWeatherData: OpenWeatherEntry[];
   accuWeatherData: AccuWeatherEntry[];
-  deepLearningData: any[];
+  deepLearningData: DeepLearningForecastEntry[];
 }
 
 export function WeatherComparison({ kmaData, openWeatherData, accuWeatherData, deepLearningData }: WeatherComparisonProps) {
@@ -29,7 +30,7 @@ export function WeatherComparison({ kmaData, openWeatherData, accuWeatherData, d
     if (!acc[date]) {
       acc[date] = { 최저기온: Infinity, 최고기온: -Infinity, entries: [] };
     }
-    const temp = parseFloat(entry["기온"]);
+    const temp = parseFloat(entry["기온"].replace("°C", "")); // Remove "°C" before parsing
     acc[date].최저기온 = Math.min(acc[date].최저기온, temp);
     acc[date].최고기온 = Math.max(acc[date].최고기온, temp);
     acc[date].entries.push(entry);
@@ -81,8 +82,8 @@ export function WeatherComparison({ kmaData, openWeatherData, accuWeatherData, d
     scrollContainerRef.current!.scrollLeft = scrollLeft - walk;
   };
 
-  const getWeatherIcon = (condition: string) => {
-    switch (condition.toLowerCase()) {
+  const getWeatherIcon = (condition: string | undefined) => {
+    switch (condition?.toLowerCase()) {
       case '맑음':
       case '구름 조금':
         return <Sun className="w-6 h-6" />;
@@ -155,15 +156,15 @@ export function WeatherComparison({ kmaData, openWeatherData, accuWeatherData, d
           </div>
         ) : null;
       case '딥러닝모델':
-        data = deepLearningData.find(entry => entry.date === day.date);
+        data = deepLearningData.find(entry => formatDateString(entry["날짜 시간"]) === day.date);
         return data ? (
           <div className="flex flex-col items-center">
             <div className="flex">
-              {getWeatherIcon(data.weatherCondition || '맑음')}
+              {getWeatherIcon(data["하늘 상태"])}
             </div>
-            <div className="text-sm">{data.lowTemp || '-'}° / {data.highTemp || '-'}°</div>
+            <div className="text-sm">{data.최저기온 || '-'}° / {data.최고기온 || '-'}°</div>
             <div className="text-xs text-blue-500">
-              {data.precipProbability || '0%'}
+              {data.강수확률 || '0%'}
             </div>
           </div>
         ) : null;
@@ -189,7 +190,7 @@ export function WeatherComparison({ kmaData, openWeatherData, accuWeatherData, d
           </div>
         ) : null;
       case '아큐웨더':
-        data = accuWeatherData.find(entry => entry.날짜.startsWith(selectedDate) && entry.날짜.split(' ')[1].slice(0, 2) === hour.slice(0, 2));
+        data = processedAccuWeatherData.find(entry => entry.날짜.startsWith(selectedDate) && entry.날짜.split(' ')[1].slice(0, 2) === hour.slice(0, 2));
         return data ? (
           <div className="flex flex-col items-center">
             <div className="flex">
@@ -206,16 +207,15 @@ export function WeatherComparison({ kmaData, openWeatherData, accuWeatherData, d
         return data ? (
           <div className="flex flex-col items-center">
             <div className="flex">
-              {getWeatherIcon(data["하늘 상태"] || '맑음')}
+              {getWeatherIcon(data["하늘 상태"])}
             </div>
-            <div className="text-sm">{data["기온"] || '-'}°</div>
+            <div className="text-sm">{parseFloat(data["기온"].replace("°C", "")).toFixed(1)}°</div>
             <div className="text-xs text-blue-500">
-              {data["강수 확률"] || '0%'}
+              {data["강수 확률"]}
             </div>
           </div>
         ) : null;
       case '딥러닝모델':
-        // Assuming deepLearningData has hourly data
         data = deepLearningData.find(entry => entry.date === selectedDate && entry.hour === hour);
         return data ? (
           <div className="flex flex-col items-center">
@@ -359,4 +359,3 @@ export function WeatherComparison({ kmaData, openWeatherData, accuWeatherData, d
     </Card>
   );
 }
-

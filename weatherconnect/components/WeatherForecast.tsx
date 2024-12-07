@@ -108,8 +108,9 @@ export function WeatherForecast({ data, selectedDate, onDateSelect }: WeatherFor
             <Button
               key={formattedDate}
               variant={selectedDate === formattedDate ? "default" : "outline"}
-              className={`flex-shrink-0 flex flex-col items-center p-4 h-40 w-32 mx-1 hover:bg-gray-100 transition-colors duration-200 ${selectedDate === formattedDate ? 'bg-gray-700 hover:bg-gray-800 text-white' : ''}`}
+              className={`flex-shrink-0 flex flex-col items-center p-4 h-40 w-32 mx-1 hover:bg-gray-100 transition-colors duration-200 transform hover:scale-105 active:scale-100 transition-transform duration-150 ease-out ${selectedDate === formattedDate ? 'bg-gray-700 hover:bg-gray-800 text-white' : ''}`}
               onClick={() => onDateSelect(formattedDate)}
+              style={{ transition: "transform 0.3s ease" }}
             >
               <span className="text-sm font-bold">
                 {index === 0 ? '오늘' : formatDateWithDay(formattedDate)}
@@ -128,8 +129,9 @@ export function WeatherForecast({ data, selectedDate, onDateSelect }: WeatherFor
         data={data.find(day => day.date === selectedDate)}
         selectedIndicators={selectedIndicators}
         setSelectedIndicators={setSelectedIndicators}
+        className="transform hover:scale-300 active:scale-300 transition-transform duration-150 ease-out"
+        style={{ transition: "transform 0.2s ease" }}
       />
     </div>
   );
 }
-

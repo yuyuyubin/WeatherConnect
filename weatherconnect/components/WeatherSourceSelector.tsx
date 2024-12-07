@@ -53,14 +53,14 @@ export function WeatherSourceSelector({
       <Button
         variant="outline"
         onClick={onForecastErrorRateToggle}
-        className="mr-2"
+        className="mr-2 hover:scale-105 transition-transform duration-200"
       >
         오보율 계산
       </Button>
       <Button
         variant="outline"
         onClick={onComparisonToggle}
-        className="mr-2"
+        className="mr-2 hover:scale-105 transition-transform duration-200"
       >
         날씨 비교
       </Button>
@@ -70,7 +70,10 @@ export function WeatherSourceSelector({
             variant="outline"
             role="combobox"
             aria-expanded={open}
-            className="w-[240px] flex items-center justify-center bg-white hover:bg-gray-100 transition-colors text-center text-sm"
+            className={cn(
+              "w-[240px] flex items-center justify-center bg-white hover:bg-gray-100 transition-transform duration-200 hover:scale-105 text-center text-sm",
+              selectedSource ? "scale-105" : ""
+            )}
           >
             <div className="flex items-center justify-between w-full">
               <span className="flex-grow text-center">
@@ -97,15 +100,13 @@ export function WeatherSourceSelector({
                     setOpen(false);
                   }}
                   className={cn(
-                    "cursor-pointer transition-colors flex items-center justify-between py-1.5 px-1.5 m-1 rounded-md text-sm", // justify-between 추가
+                    "cursor-pointer transition-transform flex items-center justify-between py-1.5 px-1.5 m-1 rounded-md text-sm",
                     selectedSource === source.value
-                      ? "bg-primary text-primary-foreground"
-                      : "hover:bg-accent hover:text-accent-foreground"
+                      ? "bg-primary text-primary-foreground scale-105"
+                      : "hover:scale-110 hover:bg-accent hover:text-accent-foreground"
                   )}
                 >
-                  <div> {/* 텍스트와 오차율을 묶는 div 추가 */}
-                    {source.label}
-                  </div>
+                  <div>{source.label}</div>
                   {errorRates && (
                     <span className="ml-2 text-xs text-gray-500">
                       {source.value === "kma" && errorRates.kmaTemp !== null && errorRates.kmaPrecip !== null
@@ -126,4 +127,3 @@ export function WeatherSourceSelector({
     </div>
   );
 }
-

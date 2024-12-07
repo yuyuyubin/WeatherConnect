@@ -113,6 +113,9 @@ export function DatePickerWithRange({
               initialFocus
               locale={ko}
               lang="ko"
+              components={{
+                Head: () => null, // 요일 헤더 제거
+              }}
             />
           </PopoverContent>
         </Popover>
@@ -159,6 +162,9 @@ export function DatePickerWithRange({
               initialFocus
               locale={ko}
               lang="ko"
+              components={{
+                Head: () => null, // 요일 헤더 제거
+              }}
             />
           </PopoverContent>
         </Popover>

@@ -53,6 +53,9 @@ export const SiteUsageDashboard: React.FC<SiteUsageDashboardProps> = ({ onClose 
             4. 오보율을 확인하려면 "오보율 계산" 버튼을 클릭하세요.
             달력에서 날짜를 선택하여 구간을 지정할 수 있습니다.
           </p>
+          <p>
+            5. N/A 값은 날씨 예보 제공처에서 제공하지 않는 정보입니다.
+          </p>
         </CardContent>
       </Card>
     </div>
