@@ -1,0 +1,2348 @@
+[
+    {
+        "date": "2024-01-01",
+        "avgTemp": 3.1,
+        "minTemp": 0.2,
+        "maxTemp": 7.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-01-02",
+        "avgTemp": -1.1,
+        "minTemp": -4.0,
+        "maxTemp": 7.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-03",
+        "avgTemp": 2.9,
+        "minTemp": -4.0,
+        "maxTemp": 5.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-04",
+        "avgTemp": 1.6,
+        "minTemp": -4.0,
+        "maxTemp": 1.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-01-05",
+        "avgTemp": -0.8,
+        "minTemp": -10.0,
+        "maxTemp": 1.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-06",
+        "avgTemp": -1.5,
+        "minTemp": -10.0,
+        "maxTemp": 6.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-07",
+        "avgTemp": 0.0,
+        "minTemp": -10.0,
+        "maxTemp": 5.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-08",
+        "avgTemp": 2.1,
+        "minTemp": -10.0,
+        "maxTemp": 7.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-09",
+        "avgTemp": 2.0,
+        "minTemp": -5.0,
+        "maxTemp": 7.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-10",
+        "avgTemp": 2.0,
+        "minTemp": -5.0,
+        "maxTemp": 6.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-11",
+        "avgTemp": 2.1,
+        "minTemp": -4.0,
+        "maxTemp": 11.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-12",
+        "avgTemp": 1.3,
+        "minTemp": -10.0,
+        "maxTemp": 3.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-13",
+        "avgTemp": 0.3,
+        "minTemp": -10.0,
+        "maxTemp": 4.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-14",
+        "avgTemp": -0.3,
+        "minTemp": -10.0,
+        "maxTemp": 5.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-15",
+        "avgTemp": 0.0,
+        "minTemp": -6.0,
+        "maxTemp": 8.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-16",
+        "avgTemp": 5.3,
+        "minTemp": -2.0,
+        "maxTemp": 10.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-17",
+        "avgTemp": 6.5,
+        "minTemp": 4.0,
+        "maxTemp": 8.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-18",
+        "avgTemp": 6.2,
+        "minTemp": 3.0,
+        "maxTemp": 10.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-19",
+        "avgTemp": 3.2,
+        "minTemp": -3.0,
+        "maxTemp": -3.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-20",
+        "avgTemp": -1.6,
+        "minTemp": -8.0,
+        "maxTemp": 0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-21",
+        "avgTemp": -5.0,
+        "minTemp": -10.0,
+        "maxTemp": -2.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-22",
+        "avgTemp": -4.6,
+        "minTemp": -10.0,
+        "maxTemp": 1.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-23",
+        "avgTemp": -2.7,
+        "minTemp": -10.0,
+        "maxTemp": 4.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-24",
+        "avgTemp": -1.1,
+        "minTemp": -10.0,
+        "maxTemp": 5.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-01-25",
+        "avgTemp": -0.1,
+        "minTemp": -10.0,
+        "maxTemp": 4.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-01-26",
+        "avgTemp": -0.3,
+        "minTemp": -10.0,
+        "maxTemp": 5.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-01-27",
+        "avgTemp": 0.0,
+        "minTemp": -10.0,
+        "maxTemp": 7.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-28",
+        "avgTemp": 1.6,
+        "minTemp": -6.0,
+        "maxTemp": 9.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-01-29",
+        "avgTemp": 3.1,
+        "minTemp": -4.0,
+        "maxTemp": 7.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-30",
+        "avgTemp": 3.1,
+        "minTemp": -2.0,
+        "maxTemp": 6.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-01-31",
+        "avgTemp": 2.4,
+        "minTemp": -2.0,
+        "maxTemp": 10.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-02-01",
+        "avgTemp": 3.6,
+        "minTemp": -2.0,
+        "maxTemp": 7.4,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-02",
+        "avgTemp": 4.9,
+        "minTemp": -2.0,
+        "maxTemp": 4.3,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-03",
+        "avgTemp": 5.1,
+        "minTemp": 1.0,
+        "maxTemp": 14.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-04",
+        "avgTemp": 2.9,
+        "minTemp": -4.0,
+        "maxTemp": 11.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-05",
+        "avgTemp": 1.1,
+        "minTemp": -5.0,
+        "maxTemp": 7.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-06",
+        "avgTemp": 0.6,
+        "minTemp": -10.0,
+        "maxTemp": 6.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-02-07",
+        "avgTemp": 1.3,
+        "minTemp": -10.0,
+        "maxTemp": 4.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-02-08",
+        "avgTemp": 2.1,
+        "minTemp": -10.0,
+        "maxTemp": 8.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-09",
+        "avgTemp": 3.1,
+        "minTemp": -10.0,
+        "maxTemp": 8.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-02-10",
+        "avgTemp": 5.0,
+        "minTemp": -3.0,
+        "maxTemp": 11.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-02-11",
+        "avgTemp": 8.0,
+        "minTemp": -3.0,
+        "maxTemp": 15.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-12",
+        "avgTemp": 9.4,
+        "minTemp": 3.0,
+        "maxTemp": 16.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-13",
+        "avgTemp": 7.0,
+        "minTemp": -3.0,
+        "maxTemp": 16.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-02-14",
+        "avgTemp": 3.9,
+        "minTemp": -4.0,
+        "maxTemp": 17.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-15",
+        "avgTemp": 5.4,
+        "minTemp": -4.0,
+        "maxTemp": 13.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-16",
+        "avgTemp": 8.8,
+        "minTemp": -2.0,
+        "maxTemp": 19.0,
+        "precipProb": 71.0
+    },
+    {
+        "date": "2024-02-17",
+        "avgTemp": 9.1,
+        "minTemp": 1.0,
+        "maxTemp": 19.0,
+        "precipProb": 71.0
+    },
+    {
+        "date": "2024-02-18",
+        "avgTemp": 6.7,
+        "minTemp": 2.0,
+        "maxTemp": 17.0,
+        "precipProb": 71.0
+    },
+    {
+        "date": "2024-02-19",
+        "avgTemp": 5.2,
+        "minTemp": 0.0,
+        "maxTemp": 13.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-02-20",
+        "avgTemp": 4.8,
+        "minTemp": 1.0,
+        "maxTemp": 8.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-21",
+        "avgTemp": 4.0,
+        "minTemp": 1.0,
+        "maxTemp": 9.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-22",
+        "avgTemp": 3.9,
+        "minTemp": 0.0,
+        "maxTemp": 10.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-23",
+        "avgTemp": 4.0,
+        "minTemp": -2.0,
+        "maxTemp": 10.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-24",
+        "avgTemp": 4.2,
+        "minTemp": -2.0,
+        "maxTemp": 9.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-25",
+        "avgTemp": 4.8,
+        "minTemp": -1.0,
+        "maxTemp": 11.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-02-26",
+        "avgTemp": 5.2,
+        "minTemp": 0.0,
+        "maxTemp": 12.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-02-27",
+        "avgTemp": 3.4,
+        "minTemp": -2.0,
+        "maxTemp": 12.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-28",
+        "avgTemp": 1.2,
+        "minTemp": -5.0,
+        "maxTemp": 11.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-02-29",
+        "avgTemp": 1.3,
+        "minTemp": -5.0,
+        "maxTemp": 8.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-03-01",
+        "avgTemp": 4.4,
+        "minTemp": -5.0,
+        "maxTemp": 11.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-02",
+        "avgTemp": 6.0,
+        "minTemp": 0.0,
+        "maxTemp": 13.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-03",
+        "avgTemp": 6.5,
+        "minTemp": 0.0,
+        "maxTemp": 12.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-04",
+        "avgTemp": 5.9,
+        "minTemp": 1.0,
+        "maxTemp": 12.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-05",
+        "avgTemp": 4.6,
+        "minTemp": 0.0,
+        "maxTemp": 11.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-06",
+        "avgTemp": 3.3,
+        "minTemp": -2.0,
+        "maxTemp": 12.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-03-07",
+        "avgTemp": 2.5,
+        "minTemp": -4.0,
+        "maxTemp": 8.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-03-08",
+        "avgTemp": 3.5,
+        "minTemp": -4.0,
+        "maxTemp": 9.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-09",
+        "avgTemp": 5.3,
+        "minTemp": -4.0,
+        "maxTemp": 13.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-10",
+        "avgTemp": 6.2,
+        "minTemp": 0.0,
+        "maxTemp": 13.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-11",
+        "avgTemp": 6.3,
+        "minTemp": 1.0,
+        "maxTemp": 13.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-12",
+        "avgTemp": 7.3,
+        "minTemp": 1.0,
+        "maxTemp": 13.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-13",
+        "avgTemp": 8.3,
+        "minTemp": 1.0,
+        "maxTemp": 14.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-14",
+        "avgTemp": 8.3,
+        "minTemp": 1.0,
+        "maxTemp": 13.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-15",
+        "avgTemp": 7.7,
+        "minTemp": -2.0,
+        "maxTemp": 17.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-16",
+        "avgTemp": 6.4,
+        "minTemp": -2.0,
+        "maxTemp": 18.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-17",
+        "avgTemp": 6.0,
+        "minTemp": -1.0,
+        "maxTemp": 12.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-18",
+        "avgTemp": 5.5,
+        "minTemp": 0.0,
+        "maxTemp": 12.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-03-19",
+        "avgTemp": 6.4,
+        "minTemp": 0.0,
+        "maxTemp": 12.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-20",
+        "avgTemp": 9.2,
+        "minTemp": -1.0,
+        "maxTemp": 19.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-21",
+        "avgTemp": 11.9,
+        "minTemp": 1.0,
+        "maxTemp": 19.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-22",
+        "avgTemp": 12.2,
+        "minTemp": 7.0,
+        "maxTemp": 21.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-23",
+        "avgTemp": 11.4,
+        "minTemp": 7.0,
+        "maxTemp": 19.0,
+        "precipProb": 66.0
+    },
+    {
+        "date": "2024-03-24",
+        "avgTemp": 9.6,
+        "minTemp": 3.0,
+        "maxTemp": 20.0,
+        "precipProb": 66.0
+    },
+    {
+        "date": "2024-03-25",
+        "avgTemp": 9.4,
+        "minTemp": 3.0,
+        "maxTemp": 16.0,
+        "precipProb": 66.0
+    },
+    {
+        "date": "2024-03-26",
+        "avgTemp": 9.6,
+        "minTemp": 3.0,
+        "maxTemp": 16.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-27",
+        "avgTemp": 9.6,
+        "minTemp": 2.0,
+        "maxTemp": 15.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-28",
+        "avgTemp": 9.5,
+        "minTemp": 2.0,
+        "maxTemp": 17.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-03-29",
+        "avgTemp": 9.7,
+        "minTemp": 1.0,
+        "maxTemp": 19.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-03-30",
+        "avgTemp": 11.4,
+        "minTemp": 1.0,
+        "maxTemp": 19.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-03-31",
+        "avgTemp": 13.1,
+        "minTemp": 4.0,
+        "maxTemp": 25.0,
+        "precipProb": 74.0
+    },
+    {
+        "date": "2024-04-01",
+        "avgTemp": 14.0,
+        "minTemp": 6.0,
+        "maxTemp": 25.0,
+        "precipProb": 74.0
+    },
+    {
+        "date": "2024-04-02",
+        "avgTemp": 13.3,
+        "minTemp": 9.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-03",
+        "avgTemp": 12.0,
+        "minTemp": 6.0,
+        "maxTemp": 18.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-04",
+        "avgTemp": 12.3,
+        "minTemp": 7.0,
+        "maxTemp": 18.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-05",
+        "avgTemp": 13.4,
+        "minTemp": 6.0,
+        "maxTemp": 21.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-04-06",
+        "avgTemp": 14.5,
+        "minTemp": 6.0,
+        "maxTemp": 23.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-04-07",
+        "avgTemp": 14.3,
+        "minTemp": 7.0,
+        "maxTemp": 23.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-08",
+        "avgTemp": 13.7,
+        "minTemp": 7.0,
+        "maxTemp": 22.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-09",
+        "avgTemp": 14.1,
+        "minTemp": 7.0,
+        "maxTemp": 22.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-04-10",
+        "avgTemp": 15.4,
+        "minTemp": 9.0,
+        "maxTemp": 23.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-04-11",
+        "avgTemp": 16.8,
+        "minTemp": 10.0,
+        "maxTemp": 24.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-04-12",
+        "avgTemp": 17.5,
+        "minTemp": 10.0,
+        "maxTemp": 28.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-13",
+        "avgTemp": 16.4,
+        "minTemp": 10.0,
+        "maxTemp": 29.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-14",
+        "avgTemp": 14.0,
+        "minTemp": 7.0,
+        "maxTemp": 30.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-15",
+        "avgTemp": 13.1,
+        "minTemp": 6.0,
+        "maxTemp": 21.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-16",
+        "avgTemp": 14.4,
+        "minTemp": 7.0,
+        "maxTemp": 21.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-04-17",
+        "avgTemp": 14.7,
+        "minTemp": 8.0,
+        "maxTemp": 24.0,
+        "precipProb": 65.0
+    },
+    {
+        "date": "2024-04-18",
+        "avgTemp": 15.0,
+        "minTemp": 9.0,
+        "maxTemp": 23.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-19",
+        "avgTemp": 16.0,
+        "minTemp": 13.0,
+        "maxTemp": 21.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-20",
+        "avgTemp": 16.5,
+        "minTemp": 10.0,
+        "maxTemp": 22.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-21",
+        "avgTemp": 15.5,
+        "minTemp": 10.0,
+        "maxTemp": 22.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-22",
+        "avgTemp": 14.4,
+        "minTemp": 9.0,
+        "maxTemp": 22.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-23",
+        "avgTemp": 14.4,
+        "minTemp": 9.0,
+        "maxTemp": 22.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-24",
+        "avgTemp": 15.5,
+        "minTemp": 9.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-04-25",
+        "avgTemp": 17.2,
+        "minTemp": 9.0,
+        "maxTemp": 25.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-04-26",
+        "avgTemp": 17.9,
+        "minTemp": 9.0,
+        "maxTemp": 28.0,
+        "precipProb": 66.0
+    },
+    {
+        "date": "2024-04-27",
+        "avgTemp": 16.9,
+        "minTemp": 10.0,
+        "maxTemp": 28.0,
+        "precipProb": 66.0
+    },
+    {
+        "date": "2024-04-28",
+        "avgTemp": 15.8,
+        "minTemp": 10.0,
+        "maxTemp": 27.0,
+        "precipProb": 66.0
+    },
+    {
+        "date": "2024-04-29",
+        "avgTemp": 15.2,
+        "minTemp": 9.0,
+        "maxTemp": 22.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-04-30",
+        "avgTemp": 15.4,
+        "minTemp": 0.0,
+        "maxTemp": 22.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-01",
+        "avgTemp": 16.2,
+        "minTemp": 9.0,
+        "maxTemp": 23.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-02",
+        "avgTemp": 17.7,
+        "minTemp": 9.0,
+        "maxTemp": 26.0,
+        "precipProb": 63.0
+    },
+    {
+        "date": "2024-05-03",
+        "avgTemp": 17.9,
+        "minTemp": 10.0,
+        "maxTemp": 26.0,
+        "precipProb": 63.0
+    },
+    {
+        "date": "2024-05-04",
+        "avgTemp": 16.0,
+        "minTemp": 12.0,
+        "maxTemp": 25.0,
+        "precipProb": 76.0
+    },
+    {
+        "date": "2024-05-05",
+        "avgTemp": 14.5,
+        "minTemp": 9.0,
+        "maxTemp": 21.0,
+        "precipProb": 76.0
+    },
+    {
+        "date": "2024-05-06",
+        "avgTemp": 14.4,
+        "minTemp": 9.0,
+        "maxTemp": 20.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-07",
+        "avgTemp": 15.3,
+        "minTemp": 9.0,
+        "maxTemp": 20.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-08",
+        "avgTemp": 17.1,
+        "minTemp": 8.0,
+        "maxTemp": 23.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-09",
+        "avgTemp": 18.0,
+        "minTemp": 0.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-05-10",
+        "avgTemp": 17.0,
+        "minTemp": 10.0,
+        "maxTemp": 25.0,
+        "precipProb": 86.0
+    },
+    {
+        "date": "2024-05-11",
+        "avgTemp": 16.0,
+        "minTemp": 10.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-05-12",
+        "avgTemp": 16.1,
+        "minTemp": 10.0,
+        "maxTemp": 24.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-13",
+        "avgTemp": 15.5,
+        "minTemp": 9.0,
+        "maxTemp": 24.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-14",
+        "avgTemp": 15.2,
+        "minTemp": 9.0,
+        "maxTemp": 24.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-15",
+        "avgTemp": 17.4,
+        "minTemp": 9.0,
+        "maxTemp": 24.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-16",
+        "avgTemp": 19.5,
+        "minTemp": 13.0,
+        "maxTemp": 26.0,
+        "precipProb": 20.0
+    },
+    {
+        "date": "2024-05-17",
+        "avgTemp": 19.6,
+        "minTemp": 12.0,
+        "maxTemp": 28.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-18",
+        "avgTemp": 19.3,
+        "minTemp": 12.0,
+        "maxTemp": 28.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-19",
+        "avgTemp": 19.1,
+        "minTemp": 12.0,
+        "maxTemp": 28.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-20",
+        "avgTemp": 19.5,
+        "minTemp": 14.0,
+        "maxTemp": 26.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-21",
+        "avgTemp": 19.3,
+        "minTemp": 14.0,
+        "maxTemp": 27.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-05-22",
+        "avgTemp": 19.0,
+        "minTemp": 14.0,
+        "maxTemp": 26.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-05-23",
+        "avgTemp": 19.8,
+        "minTemp": 14.0,
+        "maxTemp": 25.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-24",
+        "avgTemp": 19.1,
+        "minTemp": 14.0,
+        "maxTemp": 27.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-25",
+        "avgTemp": 18.8,
+        "minTemp": 13.0,
+        "maxTemp": 27.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-26",
+        "avgTemp": 18.3,
+        "minTemp": 13.0,
+        "maxTemp": 27.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-05-27",
+        "avgTemp": 19.2,
+        "minTemp": 13.0,
+        "maxTemp": 0.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-05-28",
+        "avgTemp": 19.4,
+        "minTemp": 12.0,
+        "maxTemp": 26.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-29",
+        "avgTemp": 19.1,
+        "minTemp": 15.0,
+        "maxTemp": 26.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-05-30",
+        "avgTemp": 18.4,
+        "minTemp": 14.0,
+        "maxTemp": 26.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-05-31",
+        "avgTemp": 18.7,
+        "minTemp": 13.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-01",
+        "avgTemp": 19.4,
+        "minTemp": 13.0,
+        "maxTemp": 26.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-02",
+        "avgTemp": 20.0,
+        "minTemp": 14.0,
+        "maxTemp": 26.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-03",
+        "avgTemp": 20.2,
+        "minTemp": 15.0,
+        "maxTemp": 27.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-04",
+        "avgTemp": 20.5,
+        "minTemp": 15.0,
+        "maxTemp": 27.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-05",
+        "avgTemp": 23,
+        "minTemp": 15.0,
+        "maxTemp": 28.0,
+        "precipProb": 66.0
+    },
+    {
+        "date": "2024-06-06",
+        "avgTemp": 21.4,
+        "minTemp": 15.0,
+        "maxTemp": 27.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-07",
+        "avgTemp": 21.7,
+        "minTemp": 17.0,
+        "maxTemp": 28.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-08",
+        "avgTemp": 22.0,
+        "minTemp": 17.0,
+        "maxTemp": 29.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-09",
+        "avgTemp": 22.9,
+        "minTemp": 17.0,
+        "maxTemp": 29.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-10",
+        "avgTemp": 22.9,
+        "minTemp": 17.0,
+        "maxTemp": 29.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-11",
+        "avgTemp": 23.3,
+        "minTemp": 17.0,
+        "maxTemp": 31.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-12",
+        "avgTemp": 22.5,
+        "minTemp": 17.0,
+        "maxTemp": 31.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-13",
+        "avgTemp": 23.4,
+        "minTemp": 18.0,
+        "maxTemp": 31.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-14",
+        "avgTemp": 23.0,
+        "minTemp": 16.0,
+        "maxTemp": 31.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-15",
+        "avgTemp": 23.1,
+        "minTemp": 16.0,
+        "maxTemp": 30.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-16",
+        "avgTemp": 24.0,
+        "minTemp": 16.0,
+        "maxTemp": 31.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-17",
+        "avgTemp": 24.7,
+        "minTemp": 18.0,
+        "maxTemp": 33.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-18",
+        "avgTemp": 25.4,
+        "minTemp": 19.0,
+        "maxTemp": 34.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-06-19",
+        "avgTemp": 25.1,
+        "minTemp": 19.0,
+        "maxTemp": 34.0,
+        "precipProb": 90.0
+    },
+    {
+        "date": "2024-06-20",
+        "avgTemp": 24.6,
+        "minTemp": 20.0,
+        "maxTemp": 33.0,
+        "precipProb": 90.0
+    },
+    {
+        "date": "2024-06-21",
+        "avgTemp": 24.2,
+        "minTemp": 20.0,
+        "maxTemp": 31.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-22",
+        "avgTemp": 23.5,
+        "minTemp": 18.0,
+        "maxTemp": 29.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-23",
+        "avgTemp": 22.9,
+        "minTemp": 0.0,
+        "maxTemp": 28.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-24",
+        "avgTemp": 23.1,
+        "minTemp": 17.0,
+        "maxTemp": 29.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-25",
+        "avgTemp": 24.0,
+        "minTemp": 18.0,
+        "maxTemp": 30.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-26",
+        "avgTemp": 24.5,
+        "minTemp": 18.0,
+        "maxTemp": 30.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-06-27",
+        "avgTemp": 24.7,
+        "minTemp": 19.0,
+        "maxTemp": 31.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-28",
+        "avgTemp": 24.6,
+        "minTemp": 20.0,
+        "maxTemp": 31.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-06-29",
+        "avgTemp": 25.0,
+        "minTemp": 21.0,
+        "maxTemp": 30.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-06-30",
+        "avgTemp": 24.9,
+        "minTemp": 21.0,
+        "maxTemp": 30.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-07-01",
+        "avgTemp": 25.2,
+        "minTemp": 22.0,
+        "maxTemp": 30.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-07-02",
+        "avgTemp": 25.4,
+        "minTemp": 22.0,
+        "maxTemp": 31.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-03",
+        "avgTemp": 26.3,
+        "minTemp": 22.0,
+        "maxTemp": 30.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-04",
+        "avgTemp": 26.7,
+        "minTemp": 23.0,
+        "maxTemp": 32.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-05",
+        "avgTemp": 27.0,
+        "minTemp": 24.0,
+        "maxTemp": 32.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-06",
+        "avgTemp": 26.7,
+        "minTemp": 24.0,
+        "maxTemp": 32.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-07-07",
+        "avgTemp": 25.9,
+        "minTemp": 23.0,
+        "maxTemp": 32.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-07-08",
+        "avgTemp": 25.1,
+        "minTemp": 21.0,
+        "maxTemp": 30.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-07-09",
+        "avgTemp": 25.0,
+        "minTemp": 21.0,
+        "maxTemp": 29.0,
+        "precipProb": 97.0
+    },
+    {
+        "date": "2024-07-10",
+        "avgTemp": 24.0,
+        "minTemp": 21.0,
+        "maxTemp": 30.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-07-11",
+        "avgTemp": 25.0,
+        "minTemp": 21.0,
+        "maxTemp": 31.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-07-12",
+        "avgTemp": 26.4,
+        "minTemp": 22.0,
+        "maxTemp": 31.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-13",
+        "avgTemp": 26.2,
+        "minTemp": 23.0,
+        "maxTemp": 31.0,
+        "precipProb": 73.0
+    },
+    {
+        "date": "2024-07-14",
+        "avgTemp": 26.5,
+        "minTemp": 23.0,
+        "maxTemp": 30.0,
+        "precipProb": 71.0
+    },
+    {
+        "date": "2024-07-15",
+        "avgTemp": 26.7,
+        "minTemp": 23.0,
+        "maxTemp": 30.0,
+        "precipProb": 90.0
+    },
+    {
+        "date": "2024-07-16",
+        "avgTemp": 27.0,
+        "minTemp": 24.0,
+        "maxTemp": 30.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-07-17",
+        "avgTemp": 26.8,
+        "minTemp": 24.0,
+        "maxTemp": 31.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-18",
+        "avgTemp": 27.1,
+        "minTemp": 24.0,
+        "maxTemp": 30.0,
+        "precipProb": 90.0
+    },
+    {
+        "date": "2024-07-19",
+        "avgTemp": 27.9,
+        "minTemp": 25.0,
+        "maxTemp": 31.0,
+        "precipProb": 90.0
+    },
+    {
+        "date": "2024-07-20",
+        "avgTemp": 28.4,
+        "minTemp": 25.0,
+        "maxTemp": 33.0,
+        "precipProb": 90.0
+    },
+    {
+        "date": "2024-07-21",
+        "avgTemp": 28.2,
+        "minTemp": 26.0,
+        "maxTemp": 31.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-07-22",
+        "avgTemp": 29.4,
+        "minTemp": 25.0,
+        "maxTemp": 33.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-07-23",
+        "avgTemp": 29.5,
+        "minTemp": 25.0,
+        "maxTemp": 36.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-24",
+        "avgTemp": 29.7,
+        "minTemp": 26.0,
+        "maxTemp": 35.0,
+        "precipProb": 0
+    },
+    {
+        "date": "2024-07-25",
+        "avgTemp": 29.5,
+        "minTemp": 26.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-07-26",
+        "avgTemp": 29.0,
+        "minTemp": 26.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-07-27",
+        "avgTemp": 29.1,
+        "minTemp": 26.0,
+        "maxTemp": 35.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-07-28",
+        "avgTemp": 28.6,
+        "minTemp": 0.0,
+        "maxTemp": 35.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-07-29",
+        "avgTemp": 28.9,
+        "minTemp": 25.0,
+        "maxTemp": 33.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-07-30",
+        "avgTemp": 29.6,
+        "minTemp": 26.0,
+        "maxTemp": 34.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-07-31",
+        "avgTemp": 29.7,
+        "minTemp": 26.0,
+        "maxTemp": 34.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-08-01",
+        "avgTemp": 29.6,
+        "minTemp": 26.0,
+        "maxTemp": 34.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-08-02",
+        "avgTemp": 29.8,
+        "minTemp": 26.0,
+        "maxTemp": 34.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-08-03",
+        "avgTemp": 29.7,
+        "minTemp": 26.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-04",
+        "avgTemp": 29.7,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-05",
+        "avgTemp": 29.7,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-08-06",
+        "avgTemp": 29.1,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-07",
+        "avgTemp": 29.0,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-08",
+        "avgTemp": 29.3,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-09",
+        "avgTemp": 29.6,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-10",
+        "avgTemp": 29.6,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-08-11",
+        "avgTemp": 29.8,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-12",
+        "avgTemp": 29.9,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-13",
+        "avgTemp": 29.7,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-08-14",
+        "avgTemp": 29.3,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-15",
+        "avgTemp": 29.0,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-16",
+        "avgTemp": 29.2,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-17",
+        "avgTemp": 29.5,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-18",
+        "avgTemp": 29.8,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-19",
+        "avgTemp": 29.5,
+        "minTemp": 26.0,
+        "maxTemp": 36.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-08-20",
+        "avgTemp": 29.3,
+        "minTemp": 25.0,
+        "maxTemp": 36.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-08-21",
+        "avgTemp": 28.9,
+        "minTemp": 25.0,
+        "maxTemp": 34.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-08-22",
+        "avgTemp": 28.5,
+        "minTemp": 24.0,
+        "maxTemp": 33.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-23",
+        "avgTemp": 28.2,
+        "minTemp": 23.0,
+        "maxTemp": 33.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-24",
+        "avgTemp": 28.0,
+        "minTemp": 24.0,
+        "maxTemp": 33.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-08-25",
+        "avgTemp": 27.8,
+        "minTemp": 24.0,
+        "maxTemp": 33.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-08-26",
+        "avgTemp": 27.3,
+        "minTemp": 22.0,
+        "maxTemp": 33.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-08-27",
+        "avgTemp": 28.1,
+        "minTemp": 22.0,
+        "maxTemp": 33.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-08-28",
+        "avgTemp": 28.3,
+        "minTemp": 23.0,
+        "maxTemp": 33.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-08-29",
+        "avgTemp": 27.6,
+        "minTemp": 23.0,
+        "maxTemp": 35.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-08-30",
+        "avgTemp": 26.4,
+        "minTemp": 21.0,
+        "maxTemp": 34.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-08-31",
+        "avgTemp": 26.3,
+        "minTemp": 21.0,
+        "maxTemp": 32.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-01",
+        "avgTemp": 26.6,
+        "minTemp": 22.0,
+        "maxTemp": 32.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-02",
+        "avgTemp": 27.1,
+        "minTemp": 22.0,
+        "maxTemp": 33.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-03",
+        "avgTemp": 27.0,
+        "minTemp": 22.0,
+        "maxTemp": 33.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-04",
+        "avgTemp": 28.0,
+        "minTemp": 23.0,
+        "maxTemp": 33.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-05",
+        "avgTemp": 26.8,
+        "minTemp": 22.0,
+        "maxTemp": 32.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-06",
+        "avgTemp": 26.7,
+        "minTemp": 21.0,
+        "maxTemp": 32.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-07",
+        "avgTemp": 27.2,
+        "minTemp": 20.0,
+        "maxTemp": 33.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-09-08",
+        "avgTemp": 28.4,
+        "minTemp": 22.0,
+        "maxTemp": 34.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-09",
+        "avgTemp": 28.7,
+        "minTemp": 24.0,
+        "maxTemp": 33.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-10",
+        "avgTemp": 28.2,
+        "minTemp": 24.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-11",
+        "avgTemp": 28.1,
+        "minTemp": 24.0,
+        "maxTemp": 33.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-12",
+        "avgTemp": 28.3,
+        "minTemp": 24.0,
+        "maxTemp": 33.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-09-13",
+        "avgTemp": 28.5,
+        "minTemp": 24.0,
+        "maxTemp": 34.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-14",
+        "avgTemp": 29.3,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-15",
+        "avgTemp": 29.1,
+        "minTemp": 25.0,
+        "maxTemp": 36.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-16",
+        "avgTemp": 28.8,
+        "minTemp": 25.0,
+        "maxTemp": 36.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-17",
+        "avgTemp": 28.7,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 92.0
+    },
+    {
+        "date": "2024-09-18",
+        "avgTemp": 27.5,
+        "minTemp": 25.0,
+        "maxTemp": 35.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-19",
+        "avgTemp": 24.6,
+        "minTemp": 0.0,
+        "maxTemp": 36.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-20",
+        "avgTemp": 25.1,
+        "minTemp": 16.0,
+        "maxTemp": 30.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-21",
+        "avgTemp": 23.0,
+        "minTemp": 15.0,
+        "maxTemp": 28.0,
+        "precipProb": 100.0
+    },
+    {
+        "date": "2024-09-22",
+        "avgTemp": 22.0,
+        "minTemp": 15.0,
+        "maxTemp": 28.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-09-23",
+        "avgTemp": 22.9,
+        "minTemp": 16.0,
+        "maxTemp": 30.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-09-24",
+        "avgTemp": 23.0,
+        "minTemp": 17.0,
+        "maxTemp": 30.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-25",
+        "avgTemp": 22.9,
+        "minTemp": 17.0,
+        "maxTemp": 30.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-09-26",
+        "avgTemp": 23.3,
+        "minTemp": 18.0,
+        "maxTemp": 30.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-09-27",
+        "avgTemp": 22.9,
+        "minTemp": 16.0,
+        "maxTemp": 30.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-09-28",
+        "avgTemp": 21.8,
+        "minTemp": 16.0,
+        "maxTemp": 30.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-29",
+        "avgTemp": 19.8,
+        "minTemp": 12.0,
+        "maxTemp": 30.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-09-30",
+        "avgTemp": 17.3,
+        "minTemp": 12.0,
+        "maxTemp": 28.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-01",
+        "avgTemp": 16.4,
+        "minTemp": 12.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-02",
+        "avgTemp": 17.4,
+        "minTemp": 11.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-03",
+        "avgTemp": 17.8,
+        "minTemp": 11.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-04",
+        "avgTemp": 18.2,
+        "minTemp": 12.0,
+        "maxTemp": 25.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-10-05",
+        "avgTemp": 18.0,
+        "minTemp": 14.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-06",
+        "avgTemp": 18.0,
+        "minTemp": 13.0,
+        "maxTemp": 23.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-10-07",
+        "avgTemp": 18.1,
+        "minTemp": 13.0,
+        "maxTemp": 25.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-10-08",
+        "avgTemp": 18.0,
+        "minTemp": 11.0,
+        "maxTemp": 25.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-10-09",
+        "avgTemp": 17.7,
+        "minTemp": 11.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-10",
+        "avgTemp": 18.0,
+        "minTemp": 11.0,
+        "maxTemp": 24.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-10-11",
+        "avgTemp": 18.6,
+        "minTemp": 12.0,
+        "maxTemp": 25.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-10-12",
+        "avgTemp": 19.3,
+        "minTemp": 12.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-13",
+        "avgTemp": 19.5,
+        "minTemp": 15.0,
+        "maxTemp": 25.0,
+        "precipProb": 70.0
+    },
+    {
+        "date": "2024-10-14",
+        "avgTemp": 19.1,
+        "minTemp": 12.0,
+        "maxTemp": 25.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-15",
+        "avgTemp": 18.9,
+        "minTemp": 12.0,
+        "maxTemp": 26.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-16",
+        "avgTemp": 19.0,
+        "minTemp": 14.0,
+        "maxTemp": 26.0,
+        "precipProb": 80.0
+    },
+    {
+        "date": "2024-10-17",
+        "avgTemp": 17.7,
+        "minTemp": 9.0,
+        "maxTemp": 26.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-18",
+        "avgTemp": 15.7,
+        "minTemp": 9.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-19",
+        "avgTemp": 15.8,
+        "minTemp": 10.0,
+        "maxTemp": 22.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-20",
+        "avgTemp": 16.5,
+        "minTemp": 0.0,
+        "maxTemp": 22.0,
+        "precipProb": 61.0
+    },
+    {
+        "date": "2024-10-21",
+        "avgTemp": 15.2,
+        "minTemp": 7.0,
+        "maxTemp": 23.0,
+        "precipProb": 61.0
+    },
+    {
+        "date": "2024-10-22",
+        "avgTemp": 14.3,
+        "minTemp": 8.0,
+        "maxTemp": 22.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-23",
+        "avgTemp": 15.4,
+        "minTemp": 8.0,
+        "maxTemp": 24.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-10-24",
+        "avgTemp": 16.5,
+        "minTemp": 8.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-25",
+        "avgTemp": 16.7,
+        "minTemp": 12.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-26",
+        "avgTemp": 16.5,
+        "minTemp": 11.0,
+        "maxTemp": 25.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-10-27",
+        "avgTemp": 16.2,
+        "minTemp": 11.0,
+        "maxTemp": 22.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-10-28",
+        "avgTemp": 15.8,
+        "minTemp": 11.0,
+        "maxTemp": 22.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-10-29",
+        "avgTemp": 15.5,
+        "minTemp": 10.0,
+        "maxTemp": 22.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-10-30",
+        "avgTemp": 16.1,
+        "minTemp": 10.0,
+        "maxTemp": 22.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-10-31",
+        "avgTemp": 15.0,
+        "minTemp": 11.0,
+        "maxTemp": 22.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-01",
+        "avgTemp": 15.9,
+        "minTemp": 8.0,
+        "maxTemp": 23.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-02",
+        "avgTemp": 14.1,
+        "minTemp": 6.0,
+        "maxTemp": 24.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-03",
+        "avgTemp": 11.0,
+        "minTemp": 3.0,
+        "maxTemp": 22.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-04",
+        "avgTemp": 8.7,
+        "minTemp": 5.0,
+        "maxTemp": 14.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-05",
+        "avgTemp": 9.1,
+        "minTemp": 4.0,
+        "maxTemp": 15.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-06",
+        "avgTemp": 10.6,
+        "minTemp": 6.0,
+        "maxTemp": 11.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-07",
+        "avgTemp": 12.5,
+        "minTemp": 7.0,
+        "maxTemp": 18.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-08",
+        "avgTemp": 13.5,
+        "minTemp": 9.0,
+        "maxTemp": 19.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-09",
+        "avgTemp": 13.7,
+        "minTemp": 9.0,
+        "maxTemp": 19.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-10",
+        "avgTemp": 13.6,
+        "minTemp": 8.0,
+        "maxTemp": 19.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-11",
+        "avgTemp": 13.2,
+        "minTemp": 8.0,
+        "maxTemp": 19.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-12",
+        "avgTemp": 13.8,
+        "minTemp": 8.0,
+        "maxTemp": 19.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-13",
+        "avgTemp": 15.4,
+        "minTemp": 12.0,
+        "maxTemp": 20.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-14",
+        "avgTemp": 14.6,
+        "minTemp": 13.0,
+        "maxTemp": 19.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-15",
+        "avgTemp": 10.5,
+        "minTemp": 10.0,
+        "maxTemp": 15.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-16",
+        "avgTemp": 5.9,
+        "minTemp": 9.0,
+        "maxTemp": 11.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-17",
+        "avgTemp": 4.9,
+        "minTemp": 3.0,
+        "maxTemp": 12.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-18",
+        "avgTemp": 7.1,
+        "minTemp": 5.0,
+        "maxTemp": 13.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-19",
+        "avgTemp": 8.7,
+        "minTemp": 6.0,
+        "maxTemp": 15.0,
+        "precipProb": 20.0
+    },
+    {
+        "date": "2024-11-20",
+        "avgTemp": 8.1,
+        "minTemp": 6.0,
+        "maxTemp": 13.0,
+        "precipProb": 20.0
+    },
+    {
+        "date": "2024-11-21",
+        "avgTemp": 6.1,
+        "minTemp": 7.0,
+        "maxTemp": 12.0,
+        "precipProb": 0.0
+    },
+    {
+        "date": "2024-11-22",
+        "avgTemp": 7.1,
+        "minTemp": 3.0,
+        "maxTemp": 14.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-23",
+        "avgTemp": 9.0,
+        "minTemp": 4.0,
+        "maxTemp": 15.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-24",
+        "avgTemp": 8.5,
+        "minTemp": 6.0,
+        "maxTemp": 13.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-25",
+        "avgTemp": 6.6,
+        "minTemp": 6.0,
+        "maxTemp": 10.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-26",
+        "avgTemp": 5.5,
+        "minTemp": 5.0,
+        "maxTemp": 9.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-27",
+        "avgTemp": 6.1,
+        "minTemp": 4.0,
+        "maxTemp": 10.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-28",
+        "avgTemp": 7.1,
+        "minTemp": 4.0,
+        "maxTemp": 12.0,
+        "precipProb": 60.0
+    },
+    {
+        "date": "2024-11-29",
+        "avgTemp": 8.4,
+        "minTemp": 6.0,
+        "maxTemp": 12.0,
+        "precipProb": 30.0
+    },
+    {
+        "date": "2024-11-30",
+        "avgTemp": 6.8,
+        "minTemp": 7.0,
+        "maxTemp": 13.0,
+        "precipProb": 30.0
+    }
+]
+
