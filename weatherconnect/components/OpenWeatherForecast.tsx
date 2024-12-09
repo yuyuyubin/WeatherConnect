@@ -48,6 +48,7 @@ export function OpenWeatherForecast({ data, errorRates }: OpenWeatherForecastPro
     }
   };
 
+  
   const formatDate = (dateString: string): string => {
     const [date, time] = dateString.split(' ');
     const year = date.slice(0, 4);
@@ -210,6 +211,8 @@ export function OpenWeatherForecast({ data, errorRates }: OpenWeatherForecastPro
     acc[date].push(entry);
     return acc;
   }, {} as Record<string, OpenWeatherEntry[]>);
+
+  
 
   return (
     <div className="w-full max-w-4xl mt-6">
