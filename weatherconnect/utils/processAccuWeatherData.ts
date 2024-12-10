@@ -8,6 +8,7 @@ export interface AccuWeatherEntry {
   풍향: string | null;
   습도: string;
   "강수 형태": string;
+  "강수 확률" : string;
 }
 
 export interface ProcessedAccuWeatherData {

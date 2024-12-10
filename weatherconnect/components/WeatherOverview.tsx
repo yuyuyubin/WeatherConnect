@@ -133,10 +133,10 @@ export function WeatherOverview({ currentWeather, source }: WeatherOverviewProps
     const accuWeatherData = currentWeather as AccuWeatherEntry;
 
     temperature = accuWeatherData["최고기온"] || "N/A";
-    condition = accuWeatherData["낮 날씨"] || "정보 없음";
+    condition = "비" || "정보 없음";
     highTemp = accuWeatherData["최고기온"] || "N/A";
     lowTemp = accuWeatherData["최저기온"] || "N/A";
-    precipProbability = "N/A";
+    precipProbability = "0%";
     humidity = accuWeatherData["습도"] || "N/A";
     windDirection = accuWeatherData["풍향"] || "N/A";
     windSpeed = accuWeatherData["풍속"] || "N/A";
